@@ -1,9 +1,9 @@
 {
-  "id": "internal-link-picker",
-  "name": "Internal Link Picker",
+  "id": "easy-wikilink",
+  "name": "Easy Wikilink",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Sélectionne un texte, lance le raccourci, choisis une page → génère [[page|texte affiché]]",
+  "description": "Works like Ctrl+K but for internal wikilinks. Select text, pick a page, generates [[page|selected text]]",
   "author": "Rockorolla",
   "isDesktopOnly": false
 }
