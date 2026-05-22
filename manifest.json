@@ -1,0 +1,9 @@
+{
+  "id": "internal-link-picker",
+  "name": "Internal Link Picker",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Sélectionne un texte, lance le raccourci, choisis une page → génère [[page|texte affiché]]",
+  "author": "Rockorolla",
+  "isDesktopOnly": false
+}
