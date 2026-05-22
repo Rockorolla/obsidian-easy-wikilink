@@ -15,7 +15,7 @@ Select text, trigger the hotkey, pick a page → generates `[[page|selected text
 
 After enabling the plugin, you need to assign a keyboard shortcut:
 
-Settings → Hotkeys → search **"Insérer un lien interne"** → click `+` → assign your shortcut
+Settings → Hotkeys → search **" Easy Wikilink : Insérer un lien interne"** → click `+` → assign your shortcut
 
 Recommended: `Ctrl + Shift + K` to stay consistent with the classic `Ctrl + K` behavior.
 
